@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MXDVZk67IEqF4JIgJudW0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ejobs.ro/locuri-de-munca" CVScreenId="b5fd45a1-9ef8-4ccc-bc95-ef4348198bd0" CvElementArea="179, 231, 1304, 82" CvType="InputBox" DesignTimeRectangle="183, 232, 1305, 80" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="195ece97-d927-403d-a549-47a4073a3bfd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Locuri de Munca • 11392 Joburi • Ianuarie 2026 - eJobs' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6701055634baa797cb2aaf4ef3ed45b7.png" xmlns="">0rs2IrOCvakuwtJf5yhuGeA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">VerifyTypeIntoExecution</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

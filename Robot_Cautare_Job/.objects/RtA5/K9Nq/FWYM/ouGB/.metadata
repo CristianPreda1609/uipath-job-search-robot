@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Caută job",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "ouGB11sbMECIEbubexo2eg",
+  "Reference": "fzbM2Ihk4UasnU0cPgtwZw/ouGB11sbMECIEbubexo2eg",
+  "ParentRef": "fzbM2Ihk4UasnU0cPgtwZw/FWYMz22UeEKd6JvjyVjBpA",
+  "Created": "2026-01-11T16:38:17.6692509Z",
+  "Updated": "2026-01-11T16:38:17.6692509Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

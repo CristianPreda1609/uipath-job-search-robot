@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Locuri de Munca • 11392 Joburi • Ianua",
+  "Type": "Screen",
+  "Id": "q8PC8Gs14ECBW0P2yi8xkQ",
+  "Reference": "fzbM2Ihk4UasnU0cPgtwZw/q8PC8Gs14ECBW0P2yi8xkQ",
+  "ParentRef": "fzbM2Ihk4UasnU0cPgtwZw/K9Nq4gtHJUeMIDyoJdOrhg",
+  "Created": "2026-01-11T21:56:42.9350206Z",
+  "Updated": "2026-01-11T21:56:42.9350206Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

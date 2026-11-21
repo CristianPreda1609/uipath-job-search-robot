@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Locuri de munca - Aplica fara frica - ",
+  "Type": "Screen",
+  "Id": "FWYMz22UeEKd6JvjyVjBpA",
+  "Reference": "fzbM2Ihk4UasnU0cPgtwZw/FWYMz22UeEKd6JvjyVjBpA",
+  "ParentRef": "fzbM2Ihk4UasnU0cPgtwZw/K9Nq4gtHJUeMIDyoJdOrhg",
+  "Created": "2026-01-11T15:02:11.2297508Z",
+  "Updated": "2026-01-11T15:02:11.2297508Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

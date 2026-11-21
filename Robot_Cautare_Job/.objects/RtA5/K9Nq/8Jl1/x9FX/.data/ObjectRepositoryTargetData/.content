@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="L6QYYXPSPkiQYYCHQR31mA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ejobs.ro/locuri-de-munca" CVScreenId="f5e904bd-a895-418b-9f79-fcd00b60c6c0" CvElementArea="1496, 230, 250, 85" CvTextArea="1575, 261, 88, 23" CvTextArgument="Caută job" CvType="Button" DesignTimeRectangle="1577, 256, 86, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='Caută job' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Caută job' /&gt;" Guid="66476787-60e9-4ffc-92ea-8cda91df4917" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Locuri de Munca • 11392 Joburi • Ianuarie 2026 - eJobs' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f5e904bd-a895-418b-9f79-fcd00b60c6c0" CvElementArea="1496, 230, 250, 85" CvTextArea="1575, 261, 88, 23" CvTextArgument="Caută job" CvType="Button" DesignTimeRectangle="1498, 232, 245, 80" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='ejobs-button ejobs-button--primary jobs-list-search__button' aaname='Caută job' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Caută job' /&gt;" Guid="4c7ab2d3-410f-46eb-ba0c-a89dc8c89b2c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2dba99dc9c6314d52a478cb5c9dace59.png" xmlns="">0U_5dk8vlNkiDcE8JKhp-Tg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

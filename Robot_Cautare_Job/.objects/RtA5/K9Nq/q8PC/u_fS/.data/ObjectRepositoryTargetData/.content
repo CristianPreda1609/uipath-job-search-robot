@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f8KSokJc_E6x51cNkPSEvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ejobs.ro/user/locuri-de-munca/programator-back-end-middle-bucuresti/1925002" DesignTimeRectangle="677, 550, 906, 1504" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='jobs-show-main-description__content' parentid='__nuxt' tag='DIV' /&gt;" Guid="a2d5c968-cd55-4254-aefe-624e46032d86" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Programator Back-end Middle - Bucuresti - Aplica pe eJobs' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c462c51df8375cf3c11accff1eb081a7.png" xmlns="">0MveZr5iW10ulpxTrKYDOyg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

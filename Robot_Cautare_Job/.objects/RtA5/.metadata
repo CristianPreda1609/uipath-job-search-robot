@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Locuri de munca - Aplica fara frica - eJobs",
+  "Type": "App",
+  "Id": "RtA5QqbpHEuZSjhuOwebAg",
+  "Reference": "fzbM2Ihk4UasnU0cPgtwZw/RtA5QqbpHEuZSjhuOwebAg",
+  "Created": "2026-01-11T15:02:11.1472165Z",
+  "Updated": "2026-01-11T15:02:11.1472165Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PB2EnFDMTUG2VEIUQg2BXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.ejobs.ro/locuri-de-munca/programator" DesignTimeRectangle="605, 642, 1133, 3313" ElementType="List" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='job-cards-list' tag='UL' /&gt;" Guid="01cd1b8f-f6cb-42be-b90d-858fe5782dc4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Locuri de Munca Programator • 18 Joburi • Ianuarie 2026 - eJobs' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2061ae208a25cce67d8f0345ce7a0956.png" xmlns="">0Vw-nnnDK4E-eqXhd6bXTNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Titlu'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='Link'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;true&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="ejobs.ro/locuri-de-munca/programator" CVScreenId="643a3cca-fa6f-4220-8314-611ef78603ee" CvTextArea="630, 606, 12, 18" CvTextArgument="1" CvType="Text" DesignTimeRectangle="605, 584, 1133, 65" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='jobs-list-paginator' parentid='__nuxt' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='jobs-list-paginator' parentid='__nuxt' tag='DIV' type='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='1' /&gt;" Guid="9be3ed21-807a-426f-a216-9f64f023924a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Locuri de Munca Programator • 18 Joburi • Ianuarie 2026 - eJobs' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="0" Y="0" />
+      </TargetAnchorable.PointOffset>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

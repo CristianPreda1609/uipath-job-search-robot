@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Candidatul IdealSuntem …",
+  "Type": "Element",
+  "Id": "u_fSrKRiTk-Rmm2m6dnJgA",
+  "Reference": "fzbM2Ihk4UasnU0cPgtwZw/u_fSrKRiTk-Rmm2m6dnJgA",
+  "ParentRef": "fzbM2Ihk4UasnU0cPgtwZw/q8PC8Gs14ECBW0P2yi8xkQ",
+  "Created": "2026-01-11T22:03:18.5678517Z",
+  "Updated": "2026-01-11T22:03:18.5678517Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Y-FsroERDU6xmoJZtbHIVA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ejobs.ro" CVScreenId="38362a85-b1d3-4eca-8d20-937f1df0e33b" CvElementArea="205, 797, 616, 84" CvTextArea="467, 829, 89, 23" CvTextArgument="Caută job" CvType="Button" DesignTimeRectangle="208, 799, 610, 80" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='ejobs-button ejobs-button--primary homepage-search-area__button' aaname='Caută job' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Caută job' /&gt;" Guid="07ff4e5a-166a-429c-bd52-1125bdaa2ca9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Locuri de munca - Aplica fara frica - eJobs' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="38362a85-b1d3-4eca-8d20-937f1df0e33b" CvElementArea="205, 797, 616, 84" CvTextArea="467, 829, 89, 23" CvTextArgument="Caută job" CvType="Button" DesignTimeRectangle="469, 823, 87, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentname='HomepageSearchJob' tag='SPAN' type='' class='' aaname='Caută job' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Caută job' /&gt;" Guid="bd0c48a9-b407-4df0-bdf4-66f9161566bf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eb77dc91d40b748e71746b73ea5538d3.png" xmlns="">080nDxVjEDkqLsUwuBrQKSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Lzq-H5VEMkCo3B4GDygnuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ejobs.ro" CVScreenId="d1c5f845-896b-48ed-8c7e-1bc494082c32" CvElementArea="206, 537, 614, 83" CvType="InputBox" DesignTimeRectangle="208, 604, 610, 80" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-label='Cuvinte cheie' tag='INPUT' /&gt;" Guid="2797622a-da7c-4e66-8635-5256e7298d73" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Locuri de munca - Aplica fara frica - eJobs' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e8d0faadeb69aaf5016a3370c5890ef7.png" xmlns="">0rBI5AHHi4EeP-fnXLIgJcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

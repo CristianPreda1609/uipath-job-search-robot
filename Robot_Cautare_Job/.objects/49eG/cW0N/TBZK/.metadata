@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Google Gemini",
+  "Type": "Screen",
+  "Id": "TBZK-O4TPUqtJVybUd--OA",
+  "Reference": "fzbM2Ihk4UasnU0cPgtwZw/TBZK-O4TPUqtJVybUd--OA",
+  "ParentRef": "fzbM2Ihk4UasnU0cPgtwZw/cW0NipdNpECQYgfsduEz-w",
+  "Created": "2026-01-11T15:00:29.7006457Z",
+  "Updated": "2026-01-11T15:00:29.7006457Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
